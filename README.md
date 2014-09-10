@@ -1,4 +1,4 @@
 night-watch-js-example
 ======================
 
-Worked example of Nightwatch.js browser automation test tool.
+Worked example of the <b>Nightwatch.js</b> browser automation test tool.
