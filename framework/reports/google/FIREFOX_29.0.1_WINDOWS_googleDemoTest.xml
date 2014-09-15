@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="googleDemoTest"
+             errors="0"
+             failures="0"
+             tests="2">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="demo test google" package="googleDemoTest" skipped="0"
+    tests="1" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;body&gt; was present after 136 milliseconds.">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="part two" package="googleDemoTest" skipped="0"
+    tests="1" time="" timestamp="">
+    
+    
+      <testcase name="Testing if element &lt;#main&gt; contains text: &quot;The Night Watch&quot;.">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>
